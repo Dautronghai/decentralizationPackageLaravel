@@ -1,0 +1,17 @@
+{
+    "name": "hainguyen/decentralization",
+    "description": "phan quyen cho user xu ly route",
+    "authors": [
+        {
+            "name": "hai nguyen",
+            "email": "hainguyen@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "hainguyen\\decentralization\\": "src/"
+        }
+    }
+}
